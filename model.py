@@ -1,6 +1,6 @@
 import random
 from flask_sqlalchemy import SQLAlchemy
-
+# hej
 db = SQLAlchemy()
 
 class Customer(db.Model):
